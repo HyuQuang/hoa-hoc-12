@@ -15,4 +15,4 @@ Trang web tổng hợp kiến thức & giải chi tiết 100% Đề cương Ôn 
 👉 **[https://hyuquang.github.io/hoa-hoc-12/](https://hyuquang.github.io/hoa-hoc-12/)**
 
 ---
-*Tác giả: Đặng Huy Quang - THPT Cổ Loa*
+*Tác giả: Ngô Quang Huy - THPT Cổ Loa*
